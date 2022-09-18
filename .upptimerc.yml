@@ -5,22 +5,29 @@ repo: ntut-uptime # The name of this repository
 sites:
   - name: "北科課程好朋友"
     url: https://ntut-course.gnehs.net/ 
+    slug: course-gnehs
   - name: "入口網站"
     url: https://nportal.ntut.edu.tw/index.do
+    slug: portal
   - name: "i 學園"
     url: https://istudy.ntut.edu.tw/mooc/index.php
+    slug: i-school
   - name: "課程系統"
     url: https://aps.ntut.edu.tw/course/tw/course.jsp
+    slug: course
   - name: "軟體雲"
     url: https://vdesk.ntut.edu.tw/web/
+    slug: vdesk
   - name: "小郵差"
     url: https://postman.ntut.edu.tw/CI/showmsg/loginmsg
+    slug: postman
   - name: "電子郵件系統"
     url: https://webmail.ntut.edu.tw/index_p.html
+    slug: webmail
   - name: "網路與資訊安全管理系統"
     url: https://netflow.ntut.edu.tw/home/
+    slug: netflow
     
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -28,8 +35,8 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: ""
+  introMessage: ""
   navbar:
     - title: Status
       href: /
