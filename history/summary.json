@@ -2,7 +2,7 @@
   {
     "name": "北科課程好朋友",
     "url": "https://ntut-course.gnehs.net/",
-    "icon": "https://favicons.githubusercontent.com/ntut-course.gnehs.net",
+    "icon": "https://ntut-course.gnehs.net/icon.png",
     "slug": "course-gnehs",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 145,
-    "timeDay": 145,
-    "timeWeek": 145,
-    "timeMonth": 145,
-    "timeYear": 145,
+    "time": 179,
+    "timeDay": 179,
+    "timeWeek": 179,
+    "timeMonth": 179,
+    "timeYear": 179,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1008,
-    "timeDay": 1008,
-    "timeWeek": 1008,
-    "timeMonth": 1008,
-    "timeYear": 1008,
+    "time": 1121,
+    "timeDay": 1121,
+    "timeWeek": 1121,
+    "timeMonth": 1121,
+    "timeYear": 1121,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1968,
-    "timeDay": 1968,
-    "timeWeek": 1968,
-    "timeMonth": 1968,
-    "timeYear": 1968,
+    "time": 2058,
+    "timeDay": 2058,
+    "timeWeek": 2058,
+    "timeMonth": 2058,
+    "timeYear": 2058,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1729,
-    "timeDay": 1729,
-    "timeWeek": 1729,
-    "timeMonth": 1729,
-    "timeYear": 1729,
+    "time": 1602,
+    "timeDay": 1602,
+    "timeWeek": 1602,
+    "timeMonth": 1602,
+    "timeYear": 1602,
     "dailyMinutesDown": {}
   }
 ]
