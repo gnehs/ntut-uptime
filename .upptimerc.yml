@@ -6,6 +6,7 @@ sites:
   - name: "北科課程好朋友"
     url: https://ntut-course.gnehs.net/ 
     slug: course-gnehs
+    icon: https://ntut-course.gnehs.net/icon.png
   - name: "入口網站"
     url: https://nportal.ntut.edu.tw/index.do
     slug: portal
