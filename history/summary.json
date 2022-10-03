@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 205,
-    "timeDay": 225,
-    "timeWeek": 235,
-    "timeMonth": 205,
-    "timeYear": 205,
+    "time": 213,
+    "timeDay": 363,
+    "timeWeek": 259,
+    "timeMonth": 213,
+    "timeYear": 213,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.89%",
-    "time": 1509,
-    "timeDay": 5453,
-    "timeWeek": 2162,
-    "timeMonth": 1509,
-    "timeYear": 1509,
+    "time": 1574,
+    "timeDay": 5949,
+    "timeWeek": 2413,
+    "timeMonth": 1574,
+    "timeYear": 1574,
     "dailyMinutesDown": {
       "2022-10-03": 26
     }
@@ -42,37 +42,39 @@
     "url": "https://istudy.ntut.edu.tw/mooc/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2077,
-    "timeDay": 2163,
-    "timeWeek": 2161,
+    "timeDay": 0,
+    "timeWeek": 2234,
     "timeMonth": 2077,
     "timeYear": 2077,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-03": 0
+    }
   },
   {
     "name": "課程系統",
     "url": "https://aps.ntut.edu.tw/course/tw/course.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/aps.ntut.edu.tw.ico",
     "slug": "course",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1551,
-    "timeDay": 4726,
-    "timeWeek": 1529,
-    "timeMonth": 1551,
-    "timeYear": 1551,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.83%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 1915,
+    "timeDay": 8821,
+    "timeWeek": 2665,
+    "timeMonth": 1915,
+    "timeYear": 1915,
     "dailyMinutesDown": {
-      "2022-10-03": 0
+      "2022-10-03": 2
     }
   }
 ]
