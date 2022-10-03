@@ -22,10 +22,10 @@
     "url": "https://nportal.ntut.edu.tw/index.do",
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1113,
@@ -33,7 +33,9 @@
     "timeWeek": 1182,
     "timeMonth": 1113,
     "timeYear": 1113,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-03": 1
+    }
   },
   {
     "name": "i 學園",
