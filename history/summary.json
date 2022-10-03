@@ -60,7 +60,7 @@
     "url": "https://aps.ntut.edu.tw/course/tw/course.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/aps.ntut.edu.tw.ico",
     "slug": "course",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -71,6 +71,8 @@
     "timeWeek": 1529,
     "timeMonth": 1551,
     "timeYear": 1551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-10-03": 0
+    }
   }
 ]
