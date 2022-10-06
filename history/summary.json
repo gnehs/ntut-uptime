@@ -22,10 +22,10 @@
     "url": "https://nportal.ntut.edu.tw/index.do",
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "75.90%",
-    "uptimeWeek": "96.30%",
+    "uptimeDay": "75.83%",
+    "uptimeWeek": "96.29%",
     "uptimeMonth": "98.60%",
     "uptimeYear": "98.60%",
     "time": 1928,
@@ -34,7 +34,7 @@
     "timeMonth": 1928,
     "timeYear": 1928,
     "dailyMinutesDown": {
-      "2022-10-06": 347,
+      "2022-10-06": 348,
       "2022-10-03": 26
     }
   },
@@ -43,19 +43,19 @@
     "url": "https://istudy.ntut.edu.tw/mooc/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
-    "status": "down",
-    "uptime": "98.79%",
-    "uptimeDay": "79.41%",
-    "uptimeWeek": "96.80%",
-    "uptimeMonth": "98.79%",
-    "uptimeYear": "98.79%",
-    "time": 2623,
-    "timeDay": 3489,
-    "timeWeek": 3294,
-    "timeMonth": 2623,
-    "timeYear": 2623,
+    "status": "up",
+    "uptime": "98.77%",
+    "uptimeDay": "79.00%",
+    "uptimeWeek": "96.74%",
+    "uptimeMonth": "98.77%",
+    "uptimeYear": "98.77%",
+    "time": 2605,
+    "timeDay": 3314,
+    "timeWeek": 3207,
+    "timeMonth": 2605,
+    "timeYear": 2605,
     "dailyMinutesDown": {
-      "2022-10-06": 296,
+      "2022-10-06": 302,
       "2022-10-03": 26
     }
   },
@@ -65,18 +65,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/aps.ntut.edu.tw.ico",
     "slug": "course",
     "status": "down",
-    "uptime": "99.34%",
-    "uptimeDay": "87.76%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "99.34%",
-    "uptimeYear": "99.34%",
+    "uptime": "99.32%",
+    "uptimeDay": "87.31%",
+    "uptimeWeek": "98.19%",
+    "uptimeMonth": "99.32%",
+    "uptimeYear": "99.32%",
     "time": 2344,
     "timeDay": 3976,
     "timeWeek": 3454,
     "timeMonth": 2344,
     "timeYear": 2344,
     "dailyMinutesDown": {
-      "2022-10-06": 176
+      "2022-10-06": 183
     }
   }
 ]
