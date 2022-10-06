@@ -22,19 +22,19 @@
     "url": "https://nportal.ntut.edu.tw/index.do",
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "portal",
-    "status": "up",
-    "uptime": "98.69%",
-    "uptimeDay": "77.50%",
-    "uptimeWeek": "96.53%",
-    "uptimeMonth": "98.69%",
-    "uptimeYear": "98.69%",
+    "status": "down",
+    "uptime": "98.71%",
+    "uptimeDay": "77.90%",
+    "uptimeWeek": "96.59%",
+    "uptimeMonth": "98.71%",
+    "uptimeYear": "98.71%",
     "time": 1873,
     "timeDay": 2572,
     "timeWeek": 2570,
     "timeMonth": 1873,
     "timeYear": 1873,
     "dailyMinutesDown": {
-      "2022-10-06": 324,
+      "2022-10-06": 318,
       "2022-10-03": 26
     }
   },
@@ -43,10 +43,10 @@
     "url": "https://istudy.ntut.edu.tw/mooc/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "81.54%",
-    "uptimeWeek": "97.10%",
+    "uptimeDay": "81.50%",
+    "uptimeWeek": "97.09%",
     "uptimeMonth": "98.90%",
     "uptimeYear": "98.90%",
     "time": 2623,
@@ -55,7 +55,7 @@
     "timeMonth": 2623,
     "timeYear": 2623,
     "dailyMinutesDown": {
-      "2022-10-06": 265,
+      "2022-10-06": 266,
       "2022-10-03": 26
     }
   },
@@ -64,19 +64,19 @@
     "url": "https://aps.ntut.edu.tw/course/tw/course.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/aps.ntut.edu.tw.ico",
     "slug": "course",
-    "status": "up",
-    "uptime": "99.42%",
-    "uptimeDay": "89.35%",
-    "uptimeWeek": "98.48%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
+    "status": "down",
+    "uptime": "99.45%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "98.55%",
+    "uptimeMonth": "99.45%",
+    "uptimeYear": "99.45%",
     "time": 2344,
     "timeDay": 3976,
     "timeWeek": 3454,
     "timeMonth": 2344,
     "timeYear": 2344,
     "dailyMinutesDown": {
-      "2022-10-06": 153
+      "2022-10-06": 146
     }
   }
 ]
