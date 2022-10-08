@@ -47,12 +47,12 @@
     "slug": "i-school",
     "status": "up",
     "uptime": "98.11%",
-    "uptimeDay": "86.73%",
+    "uptimeDay": "86.93%",
     "uptimeWeek": "94.57%",
     "uptimeMonth": "98.11%",
     "uptimeYear": "98.11%",
     "time": 2968,
-    "timeDay": 4407,
+    "timeDay": 4787,
     "timeWeek": 3701,
     "timeMonth": 2968,
     "timeYear": 2968,
@@ -67,7 +67,7 @@
     "url": "https://aps.ntut.edu.tw/course/tw/course.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/aps.ntut.edu.tw.ico",
     "slug": "course",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.98%",
@@ -79,6 +79,7 @@
     "timeMonth": 2152,
     "timeYear": 2152,
     "dailyMinutesDown": {
+      "2022-10-08": 0,
       "2022-10-06": 203
     }
   }
