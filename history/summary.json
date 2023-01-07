@@ -22,12 +22,12 @@
     "url": "https://nportal.ntut.edu.tw/index.do",
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "portal",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "67.78%",
+    "status": "down",
+    "uptime": "98.20%",
+    "uptimeDay": "67.77%",
     "uptimeWeek": "95.40%",
     "uptimeMonth": "98.94%",
-    "uptimeYear": "98.11%",
+    "uptimeYear": "98.20%",
     "time": 2192,
     "timeDay": 5014,
     "timeWeek": 3710,
@@ -75,7 +75,7 @@
       "2022-10-09": 42,
       "2022-10-08": 82,
       "2022-10-07": 146,
-      "2022-10-06": 306
+      "2022-10-06": 167
     }
   },
   {
