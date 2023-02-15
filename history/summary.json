@@ -23,18 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "98.67%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "98.67%",
+    "uptime": "98.66%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "98.66%",
     "time": 2046,
     "timeDay": 891,
     "timeWeek": 927,
     "timeMonth": 1170,
     "timeYear": 2046,
     "dailyMinutesDown": {
-      "2023-02-15": 6,
       "2023-01-25": 16,
       "2023-01-13": 18,
       "2023-01-12": 16,
@@ -80,7 +79,8 @@
       "2022-10-11": 95,
       "2022-10-09": 42,
       "2022-10-08": 82,
-      "2022-10-07": 146
+      "2022-10-07": 146,
+      "2022-10-06": 21
     }
   },
   {
@@ -88,9 +88,9 @@
     "url": "https://istudy.ntut.edu.tw/mooc/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
-    "status": "up",
+    "status": "down",
     "uptime": "98.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.78%",
@@ -100,6 +100,7 @@
     "timeMonth": 2337,
     "timeYear": 2887,
     "dailyMinutesDown": {
+      "2023-02-15": 0,
       "2023-01-13": 18,
       "2023-01-07": 84,
       "2023-01-06": 309,
