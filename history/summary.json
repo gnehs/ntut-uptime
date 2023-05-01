@@ -90,9 +90,9 @@
     "url": "https://istudy.ntut.edu.tw/mooc/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
-    "status": "up",
+    "status": "down",
     "uptime": "98.98%",
-    "uptimeDay": "94.55%",
+    "uptimeDay": "94.53%",
     "uptimeWeek": "97.48%",
     "uptimeMonth": "98.55%",
     "uptimeYear": "98.98%",
@@ -145,8 +145,7 @@
       "2022-10-12": 173,
       "2022-10-10": 68,
       "2022-10-07": 219,
-      "2022-10-06": 302,
-      "2022-10-03": 26
+      "2022-10-06": 302
     }
   },
   {
