@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 184,
-    "timeDay": 104,
-    "timeWeek": 134,
+    "timeDay": 0,
+    "timeWeek": 137,
     "timeMonth": 137,
     "timeYear": 184,
     "dailyMinutesDown": {}
@@ -22,15 +22,15 @@
     "url": "https://nportal.ntut.edu.tw/index.do",
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.12%",
-    "uptimeDay": "85.69%",
-    "uptimeWeek": "97.96%",
+    "uptimeDay": "85.68%",
+    "uptimeWeek": "97.95%",
     "uptimeMonth": "98.99%",
     "uptimeYear": "99.12%",
     "time": 1857,
-    "timeDay": 997,
-    "timeWeek": 1011,
+    "timeDay": 1008,
+    "timeWeek": 1015,
     "timeMonth": 1791,
     "timeYear": 1857,
     "dailyMinutesDown": {
@@ -82,8 +82,7 @@
       "2022-10-14": 65,
       "2022-10-13": 92,
       "2022-10-12": 125,
-      "2022-10-11": 95,
-      "2022-10-09": 18
+      "2022-10-11": 95
     }
   },
   {
@@ -92,18 +91,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
     "status": "up",
-    "uptime": "99.07%",
-    "uptimeDay": "90.74%",
-    "uptimeWeek": "98.53%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "99.07%",
+    "uptime": "99.03%",
+    "uptimeDay": "91.09%",
+    "uptimeWeek": "98.58%",
+    "uptimeMonth": "99.01%",
+    "uptimeYear": "99.03%",
     "time": 2650,
-    "timeDay": 1708,
+    "timeDay": 1621,
     "timeWeek": 1833,
     "timeMonth": 2123,
     "timeYear": 2650,
     "dailyMinutesDown": {
-      "2023-05-22": 133,
+      "2023-05-22": 128,
       "2023-05-17": 15,
       "2023-05-12": 38,
       "2023-05-01": 79,
@@ -149,7 +148,7 @@
       "2022-10-12": 173,
       "2022-10-10": 68,
       "2022-10-07": 219,
-      "2022-10-06": 112
+      "2022-10-06": 264
     }
   },
   {
@@ -164,9 +163,9 @@
     "uptimeMonth": "99.21%",
     "uptimeYear": "99.49%",
     "time": 1577,
-    "timeDay": 1052,
+    "timeDay": 1142,
     "timeWeek": 998,
-    "timeMonth": 1734,
+    "timeMonth": 1754,
     "timeYear": 1577,
     "dailyMinutesDown": {
       "2023-05-22": 141,
