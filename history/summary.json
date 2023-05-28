@@ -91,18 +91,19 @@
     "url": "https://istudy.ntut.edu.tw/mooc/index.php",
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
-    "status": "up",
-    "uptime": "99.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "94.73%",
+    "status": "down",
+    "uptime": "99.02%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "94.72%",
     "uptimeMonth": "98.20%",
-    "uptimeYear": "99.00%",
+    "uptimeYear": "99.02%",
     "time": 2657,
     "timeDay": 1964,
     "timeWeek": 2588,
     "timeMonth": 2333,
     "timeYear": 2657,
     "dailyMinutesDown": {
+      "2023-05-28": 0,
       "2023-05-26": 35,
       "2023-05-24": 294,
       "2023-05-23": 75,
@@ -151,8 +152,7 @@
       "2022-10-13": 73,
       "2022-10-12": 173,
       "2022-10-10": 68,
-      "2022-10-07": 219,
-      "2022-10-06": 37
+      "2022-10-07": 219
     }
   },
   {
