@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 158,
-    "timeWeek": 119,
-    "timeMonth": 141,
+    "timeDay": 156,
+    "timeWeek": 132,
+    "timeMonth": 140,
     "timeYear": 164,
     "dailyMinutesDown": {}
   },
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.41%",
-    "time": 1676,
-    "timeDay": 738,
-    "timeWeek": 1113,
-    "timeMonth": 1000,
-    "timeYear": 1648,
+    "uptimeYear": "99.42%",
+    "time": 1675,
+    "timeDay": 917,
+    "timeWeek": 1069,
+    "timeMonth": 1002,
+    "timeYear": 1643,
     "dailyMinutesDown": {
       "2023-09-12": 17,
       "2023-05-22": 206,
@@ -81,8 +81,7 @@
       "2022-10-16": 23,
       "2022-10-15": 93,
       "2022-10-14": 65,
-      "2022-10-13": 92,
-      "2022-10-12": 125
+      "2022-10-13": 92
     }
   },
   {
@@ -96,10 +95,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.88%",
     "uptimeYear": "99.36%",
-    "time": 2434,
-    "timeDay": 1613,
-    "timeWeek": 1987,
-    "timeMonth": 1836,
+    "time": 2433,
+    "timeDay": 1882,
+    "timeWeek": 1941,
+    "timeMonth": 1840,
     "timeYear": 2411,
     "dailyMinutesDown": {
       "2023-09-27": 17,
@@ -151,8 +150,7 @@
       "2022-10-18": 41,
       "2022-10-17": 62,
       "2022-10-14": 38,
-      "2022-10-13": 73,
-      "2022-10-12": 173
+      "2022-10-13": 73
     }
   },
   {
@@ -165,12 +163,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.69%",
+    "uptimeYear": "99.70%",
     "time": 1419,
-    "timeDay": 751,
-    "timeWeek": 1020,
-    "timeMonth": 930,
-    "timeYear": 1379,
+    "timeDay": 1054,
+    "timeWeek": 1024,
+    "timeMonth": 936,
+    "timeYear": 1363,
     "dailyMinutesDown": {
       "2023-09-12": 16,
       "2023-05-22": 141,
@@ -198,8 +196,7 @@
       "2022-10-20": 21,
       "2022-10-15": 16,
       "2022-10-14": 38,
-      "2022-10-13": 21,
-      "2022-10-12": 87
+      "2022-10-13": 21
     }
   }
 ]
