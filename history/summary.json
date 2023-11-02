@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 175,
-    "timeDay": 132,
-    "timeWeek": 150,
-    "timeMonth": 264,
+    "timeDay": 161,
+    "timeWeek": 153,
+    "timeMonth": 262,
     "timeYear": 172,
     "dailyMinutesDown": {}
   },
@@ -27,12 +27,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
-    "uptimeYear": "99.63%",
-    "time": 1557,
-    "timeDay": 1052,
-    "timeWeek": 954,
-    "timeMonth": 987,
-    "timeYear": 1456,
+    "uptimeYear": "99.64%",
+    "time": 1556,
+    "timeDay": 1070,
+    "timeWeek": 987,
+    "timeMonth": 997,
+    "timeYear": 1439,
     "dailyMinutesDown": {
       "2023-10-13": 15,
       "2023-09-12": 17,
@@ -63,8 +63,7 @@
       "2022-11-06": 16,
       "2022-11-05": 17,
       "2022-11-04": 54,
-      "2022-11-03": 21,
-      "2022-11-02": 47
+      "2022-11-03": 21
     }
   },
   {
@@ -77,12 +76,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.54%",
+    "uptimeYear": "99.57%",
     "time": 2392,
-    "timeDay": 2246,
-    "timeWeek": 1919,
-    "timeMonth": 1905,
-    "timeYear": 2356,
+    "timeDay": 1937,
+    "timeWeek": 1891,
+    "timeMonth": 1913,
+    "timeYear": 2358,
     "dailyMinutesDown": {
       "2023-09-27": 17,
       "2023-09-25": 20,
@@ -118,8 +117,7 @@
       "2022-11-09": 126,
       "2022-11-07": 26,
       "2022-11-05": 28,
-      "2022-11-04": 55,
-      "2022-11-02": 45
+      "2022-11-04": 55
     }
   },
   {
@@ -133,11 +131,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.78%",
-    "time": 1403,
-    "timeDay": 1279,
-    "timeWeek": 983,
-    "timeMonth": 968,
-    "timeYear": 1342,
+    "time": 1359,
+    "timeDay": 853,
+    "timeWeek": 1007,
+    "timeMonth": 972,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2023-09-12": 16,
       "2023-05-22": 141,
@@ -155,8 +153,7 @@
       "2022-11-07": 82,
       "2022-11-06": 16,
       "2022-11-04": 23,
-      "2022-11-03": 17,
-      "2022-11-02": 66
+      "2022-11-03": 17
     }
   }
 ]
