@@ -11,10 +11,10 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 176,
-    "timeDay": 301,
-    "timeWeek": 191,
+    "timeDay": 107,
+    "timeWeek": 184,
     "timeMonth": 273,
-    "timeYear": 173,
+    "timeYear": 172,
     "dailyMinutesDown": {
       "2023-11-04": 23,
       "2023-11-03": 6
@@ -26,16 +26,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nportal.ntut.edu.tw.ico",
     "slug": "portal",
     "status": "up",
-    "uptime": "99.48%",
+    "uptime": "99.49%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.67%",
-    "time": 1553,
-    "timeDay": 884,
-    "timeWeek": 980,
-    "timeMonth": 980,
-    "timeYear": 1386,
+    "time": 1542,
+    "timeDay": 987,
+    "timeWeek": 1000,
+    "timeMonth": 962,
+    "timeYear": 1387,
     "dailyMinutesDown": {
       "2023-10-13": 15,
       "2023-09-12": 17,
@@ -61,8 +61,7 @@
       "2022-11-13": 17,
       "2022-11-12": 17,
       "2022-11-10": 16,
-      "2022-11-09": 195,
-      "2022-11-07": 18
+      "2022-11-09": 195
     }
   },
   {
@@ -77,9 +76,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.59%",
     "time": 2382,
-    "timeDay": 1752,
-    "timeWeek": 1902,
-    "timeMonth": 1896,
+    "timeDay": 2275,
+    "timeWeek": 1982,
+    "timeMonth": 1906,
     "timeYear": 2319,
     "dailyMinutesDown": {
       "2023-09-27": 17,
@@ -113,8 +112,7 @@
       "2022-11-16": 15,
       "2022-11-14": 37,
       "2022-11-10": 108,
-      "2022-11-09": 126,
-      "2022-11-07": 26
+      "2022-11-09": 126
     }
   },
   {
@@ -127,12 +125,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.80%",
-    "time": 1358,
-    "timeDay": 933,
-    "timeWeek": 927,
+    "uptimeYear": "99.81%",
+    "time": 1349,
+    "timeDay": 1010,
+    "timeWeek": 933,
     "timeMonth": 946,
-    "timeYear": 1287,
+    "timeYear": 1285,
     "dailyMinutesDown": {
       "2023-09-12": 16,
       "2023-05-22": 141,
@@ -146,8 +144,7 @@
       "2022-11-18": 16,
       "2022-11-17": 35,
       "2022-11-15": 32,
-      "2022-11-09": 54,
-      "2022-11-07": 82
+      "2022-11-09": 54
     }
   }
 ]
