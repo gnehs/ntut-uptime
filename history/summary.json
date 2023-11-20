@@ -11,9 +11,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 175,
-    "timeDay": 144,
-    "timeWeek": 161,
-    "timeMonth": 165,
+    "timeDay": 114,
+    "timeWeek": 156,
+    "timeMonth": 164,
     "timeYear": 162,
     "dailyMinutesDown": {
       "2023-11-04": 23,
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.97%",
     "uptimeYear": "99.77%",
     "time": 1356,
-    "timeDay": 998,
-    "timeWeek": 1204,
-    "timeMonth": 1002,
-    "timeYear": 1295,
+    "timeDay": 840,
+    "timeWeek": 1147,
+    "timeMonth": 996,
+    "timeYear": 1294,
     "dailyMinutesDown": {
       "2023-11-09": 15,
       "2023-10-13": 15,
@@ -52,8 +52,7 @@
       "2023-01-11": 30,
       "2023-01-10": 17,
       "2023-01-07": 250,
-      "2023-01-06": 302,
-      "2022-11-20": 22
+      "2023-01-06": 302
     }
   },
   {
@@ -62,16 +61,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/istudy.ntut.edu.tw.ico",
     "slug": "i-school",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 2345,
-    "timeDay": 1949,
-    "timeWeek": 2177,
-    "timeMonth": 1925,
-    "timeYear": 2279,
+    "time": 2344,
+    "timeDay": 1565,
+    "timeWeek": 2110,
+    "timeMonth": 1911,
+    "timeYear": 2278,
     "dailyMinutesDown": {
       "2023-09-27": 17,
       "2023-09-25": 20,
@@ -97,8 +96,7 @@
       "2023-01-07": 84,
       "2023-01-06": 309,
       "2023-01-04": 15,
-      "2022-12-27": 21,
-      "2022-11-20": 22
+      "2022-12-27": 21
     }
   },
   {
@@ -112,11 +110,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 1301,
-    "timeDay": 1213,
-    "timeWeek": 1203,
-    "timeMonth": 956,
-    "timeYear": 1232,
+    "time": 1300,
+    "timeDay": 740,
+    "timeWeek": 1126,
+    "timeMonth": 948,
+    "timeYear": 1230,
     "dailyMinutesDown": {
       "2023-09-12": 16,
       "2023-05-22": 141,
@@ -125,8 +123,7 @@
       "2023-02-20": 22,
       "2023-01-07": 162,
       "2023-01-06": 212,
-      "2023-01-05": 15,
-      "2022-11-20": 22
+      "2023-01-05": 15
     }
   }
 ]
