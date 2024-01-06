@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 172,
-    "timeDay": 59,
-    "timeWeek": 156,
-    "timeMonth": 139,
+    "timeDay": 184,
+    "timeWeek": 148,
+    "timeMonth": 142,
     "timeYear": 156,
     "dailyMinutesDown": {
       "2023-11-04": 23,
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.77%",
-    "time": 1304,
-    "timeDay": 1042,
-    "timeWeek": 837,
-    "timeMonth": 979,
-    "timeYear": 1279,
+    "time": 1303,
+    "timeDay": 885,
+    "timeWeek": 854,
+    "timeMonth": 976,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2023-11-09": 15,
       "2023-10-13": 15,
@@ -51,8 +51,7 @@
       "2023-01-12": 16,
       "2023-01-11": 30,
       "2023-01-10": 17,
-      "2023-01-07": 250,
-      "2023-01-06": 302
+      "2023-01-07": 250
     }
   },
   {
@@ -66,10 +65,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.67%",
-    "time": 2290,
-    "timeDay": 2159,
-    "timeWeek": 1743,
-    "timeMonth": 1872,
+    "time": 2289,
+    "timeDay": 1696,
+    "timeWeek": 1757,
+    "timeMonth": 1866,
     "timeYear": 2237,
     "dailyMinutesDown": {
       "2023-09-27": 17,
@@ -93,8 +92,7 @@
       "2023-02-24": 16,
       "2023-02-23": 15,
       "2023-01-13": 18,
-      "2023-01-07": 84,
-      "2023-01-06": 309
+      "2023-01-07": 84
     }
   },
   {
@@ -107,20 +105,19 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.85%",
-    "time": 1246,
-    "timeDay": 1038,
-    "timeWeek": 825,
-    "timeMonth": 922,
-    "timeYear": 1207,
+    "uptimeYear": "99.86%",
+    "time": 1245,
+    "timeDay": 752,
+    "timeWeek": 844,
+    "timeMonth": 916,
+    "timeYear": 1200,
     "dailyMinutesDown": {
       "2023-09-12": 16,
       "2023-05-22": 141,
       "2023-05-01": 77,
       "2023-04-29": 126,
       "2023-02-20": 22,
-      "2023-01-07": 162,
-      "2023-01-06": 212
+      "2023-01-07": 162
     }
   }
 ]
