@@ -30,7 +30,7 @@
     "uptimeYear": "99.88%",
     "time": 1238,
     "timeDay": 1025,
-    "timeWeek": 1024,
+    "timeWeek": 1039,
     "timeMonth": 1016,
     "timeYear": 1265,
     "dailyMinutesDown": {
@@ -73,7 +73,7 @@
     "uptimeYear": "99.90%",
     "time": 2839,
     "timeDay": 2436,
-    "timeWeek": 2529,
+    "timeWeek": 2546,
     "timeMonth": 2593,
     "timeYear": 2878,
     "dailyMinutesDown": {
@@ -103,9 +103,9 @@
     "url": "https://aps.ntut.edu.tw/course/tw/course.jsp",
     "icon": "https://icons.duckduckgo.com/ip3/aps.ntut.edu.tw.ico",
     "slug": "course",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.34%",
     "uptimeYear": "99.13%",
@@ -115,6 +115,7 @@
     "timeMonth": 961,
     "timeYear": 1206,
     "dailyMinutesDown": {
+      "2025-09-24": 0,
       "2025-09-21": 26,
       "2025-09-20": 1,
       "2025-09-12": 246,
