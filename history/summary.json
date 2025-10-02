@@ -4,19 +4,19 @@
     "url": "https://ntut-course.gnehs.net/",
     "icon": "https://ntut-course.gnehs.net/icon.png",
     "slug": "course-gnehs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 177,
-    "timeDay": 303,
-    "timeWeek": 229,
-    "timeMonth": 210,
-    "timeYear": 181,
+    "time": 178,
+    "timeDay": 385,
+    "timeWeek": 269,
+    "timeMonth": 223,
+    "timeYear": 182,
     "dailyMinutesDown": {
-      "2025-10-02": 12
+      "2025-10-02": 0
     }
   },
   {
@@ -32,7 +32,7 @@
     "uptimeYear": "99.88%",
     "time": 1250,
     "timeDay": 983,
-    "timeWeek": 1022,
+    "timeWeek": 1032,
     "timeMonth": 1020,
     "timeYear": 1256,
     "dailyMinutesDown": {
@@ -76,7 +76,7 @@
     "uptimeYear": "99.89%",
     "time": 2861,
     "timeDay": 2484,
-    "timeWeek": 2596,
+    "timeWeek": 2611,
     "timeMonth": 2597,
     "timeYear": 2861,
     "dailyMinutesDown": {
@@ -115,7 +115,7 @@
     "uptimeYear": "99.12%",
     "time": 1171,
     "timeDay": 978,
-    "timeWeek": 933,
+    "timeWeek": 940,
     "timeMonth": 955,
     "timeYear": 1193,
     "dailyMinutesDown": {
