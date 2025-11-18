@@ -4,19 +4,19 @@
     "url": "https://ntut-course.gnehs.net/",
     "icon": "https://ntut-course.gnehs.net/icon.png",
     "slug": "course-gnehs",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 179,
-    "timeDay": 82,
-    "timeWeek": 177,
-    "timeMonth": 183,
+    "timeDay": 103,
+    "timeWeek": 174,
+    "timeMonth": 182,
     "timeYear": 186,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 31
     }
   },
   {
