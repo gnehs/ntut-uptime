@@ -26,9 +26,9 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.74%",
+    "uptimeMonth": "99.46%",
     "uptimeYear": "99.70%",
     "time": 1199,
     "timeDay": 1026,
@@ -36,7 +36,6 @@
     "timeMonth": 1066,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2025-12-21": 5,
       "2025-12-17": 26,
       "2025-12-12": 16,
       "2025-12-11": 18,
@@ -92,9 +91,9 @@
     "slug": "i-school",
     "status": "up",
     "uptime": "99.80%",
-    "uptimeDay": "99.66%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.47%",
     "uptimeYear": "99.78%",
     "time": 2790,
     "timeDay": 2234,
@@ -102,7 +101,6 @@
     "timeMonth": 2526,
     "timeYear": 2789,
     "dailyMinutesDown": {
-      "2025-12-21": 5,
       "2025-12-17": 25,
       "2025-12-12": 16,
       "2025-12-11": 18,
@@ -155,17 +153,16 @@
     "slug": "course",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.71%",
-    "uptimeMonth": "99.50%",
-    "uptimeYear": "99.27%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.75%",
+    "uptimeMonth": "99.51%",
+    "uptimeYear": "99.28%",
     "time": 1122,
     "timeDay": 981,
     "timeWeek": 970,
     "timeMonth": 944,
     "timeYear": 1135,
     "dailyMinutesDown": {
-      "2025-12-21": 4,
       "2025-12-17": 25,
       "2025-12-12": 15,
       "2025-12-11": 17,
@@ -210,8 +207,7 @@
       "2025-02-14": 17,
       "2025-01-31": 95,
       "2025-01-30": 18,
-      "2024-12-23": 39,
-      "2024-12-22": 1440
+      "2024-12-23": 39
     }
   }
 ]
