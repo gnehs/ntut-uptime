@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 185,
-    "timeDay": 206,
-    "timeWeek": 209,
-    "timeMonth": 193,
+    "timeDay": 217,
+    "timeWeek": 197,
+    "timeMonth": 195,
     "timeYear": 193,
     "dailyMinutesDown": {
       "2025-11-18": 31
@@ -26,17 +26,17 @@
     "slug": "portal",
     "status": "up",
     "uptime": "99.78%",
-    "uptimeDay": "98.13%",
-    "uptimeWeek": "98.62%",
-    "uptimeMonth": "98.30%",
-    "uptimeYear": "99.56%",
+    "uptimeDay": "98.85%",
+    "uptimeWeek": "98.72%",
+    "uptimeMonth": "98.32%",
+    "uptimeYear": "99.57%",
     "time": 1164,
-    "timeDay": 1108,
-    "timeWeek": 961,
-    "timeMonth": 967,
-    "timeYear": 1165,
+    "timeDay": 928,
+    "timeWeek": 957,
+    "timeMonth": 969,
+    "timeYear": 1164,
     "dailyMinutesDown": {
-      "2026-01-30": 27,
+      "2026-01-30": 17,
       "2026-01-28": 58,
       "2026-01-26": 54,
       "2026-01-21": 41,
@@ -93,8 +93,7 @@
       "2025-04-27": 15,
       "2025-04-05": 24,
       "2025-03-10": 23,
-      "2025-02-14": 18,
-      "2025-01-31": 97
+      "2025-02-14": 18
     }
   },
   {
@@ -104,17 +103,17 @@
     "slug": "i-school",
     "status": "up",
     "uptime": "99.79%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "98.65%",
-    "uptimeMonth": "98.31%",
-    "uptimeYear": "99.63%",
+    "uptimeDay": "98.88%",
+    "uptimeWeek": "98.74%",
+    "uptimeMonth": "98.34%",
+    "uptimeYear": "99.64%",
     "time": 2746,
-    "timeDay": 2559,
-    "timeWeek": 2299,
+    "timeDay": 2399,
+    "timeWeek": 2307,
     "timeMonth": 2411,
     "timeYear": 2731,
     "dailyMinutesDown": {
-      "2026-01-30": 26,
+      "2026-01-30": 16,
       "2026-01-28": 57,
       "2026-01-26": 54,
       "2026-01-21": 39,
@@ -169,8 +168,7 @@
       "2025-05-01": 29,
       "2025-04-05": 23,
       "2025-03-10": 22,
-      "2025-02-14": 17,
-      "2025-01-31": 95
+      "2025-02-14": 17
     }
   },
   {
@@ -180,17 +178,17 @@
     "slug": "course",
     "status": "up",
     "uptime": "99.59%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.67%",
-    "uptimeMonth": "98.33%",
-    "uptimeYear": "99.41%",
+    "uptimeDay": "98.91%",
+    "uptimeWeek": "98.77%",
+    "uptimeMonth": "98.35%",
+    "uptimeYear": "99.42%",
     "time": 1097,
-    "timeDay": 987,
-    "timeWeek": 898,
+    "timeDay": 950,
+    "timeWeek": 908,
     "timeMonth": 943,
-    "timeYear": 1113,
+    "timeYear": 1108,
     "dailyMinutesDown": {
-      "2026-01-30": 25,
+      "2026-01-30": 16,
       "2026-01-28": 56,
       "2026-01-26": 53,
       "2026-01-21": 39,
@@ -247,8 +245,7 @@
       "2025-03-30": 832,
       "2025-03-10": 22,
       "2025-02-17": 36,
-      "2025-02-14": 17,
-      "2025-01-31": 95
+      "2025-02-14": 17
     }
   }
 ]
